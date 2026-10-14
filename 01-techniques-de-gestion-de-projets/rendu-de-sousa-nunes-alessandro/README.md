@@ -29,6 +29,7 @@ Chaque dossier contient les fichiers de travail (Excel, Word, PowerPoint), **une
 - `charte-de-projet.docx` – charte (besoins, objectifs, périmètre, parties prenantes, WBS, jalons, contrôle)
 - `wbs-et-jalons.xlsx` – WBS sur 3 niveaux avec charges calculées, frise des jalons
 - `wbs-diagramme.pptx` – diagramme en arbre du WBS (54 éléments), construit à partir du fichier Excel
+- `parties-prenantes-et-raci.xlsx` – matrice pouvoir / intérêt des parties prenantes (stratégie calculée) et matrice RACI (contrôle automatique d'un seul « A » par activité)
 
 ![Diagramme WBS](projet-1-charte-decoupage/captures/wbs-diagramme.png)
 
@@ -36,7 +37,11 @@ Chaque dossier contient les fichiers de travail (Excel, Word, PowerPoint), **une
 - `cahier-des-charges.docx` – cahier des charges, estimations, note sur le chemin critique, vérifications
 - `planning-gantt.xlsx` – Gantt avec dépendances, marges et chemin critique calculés par formules
 
+- `reseau-pert.pptx` – réseau PERT des tâches avec dates au plus tôt / au plus tard et marges
+
 ![Gantt](projet-2-cahier-charges-gantt/captures/gantt.png)
+
+![Réseau PERT](projet-2-cahier-charges-gantt/captures/reseau-pert.png)
 
 ### Projet 3 – Analyse et gestion des risques d'un projet IT
 - `analyse-des-risques.docx` – méthode, registre, matrice, plans de mitigation des 3 risques critiques
@@ -51,4 +56,8 @@ Chaque dossier contient les fichiers de travail (Excel, Word, PowerPoint), **une
 - `2-rapports-avancement-COPIL.docx` – rapports d'avancement n°1 (J2) et n°2 (J4)
 - `3-fiche-gestion-alea.docx` – analyse de l'aléa, options et décision
 - `4-bilan-cloture-REX.docx` – bilan de clôture et retour d'expérience
-- `plan-et-suivi-du-projet.xlsx` – budget, planning, tableau de bord de suivi, risques
+- `plan-et-suivi-du-projet.xlsx` – budget, planning, tableau de bord de suivi, risques, matrice RACI
+
+## Auto-évaluation
+
+[`auto-evaluation.pdf`](auto-evaluation.pdf) (version Excel : `auto-evaluation.xlsx`) reprend, pour chaque projet, les critères et pondérations officiels des fiches, indique où chaque critère est couvert dans le rendu et note les points faibles. Les taux sont mon estimation personnelle ; la note officielle reste celle du formateur.
