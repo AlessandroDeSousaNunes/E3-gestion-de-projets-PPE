@@ -1,8 +1,8 @@
 # Rendu PPE – Cours 1 : Techniques de gestion de projets (306)
 
-**Étudiant :** De Sousa Nunes Alessandro – CFC 3
-**Formateur référent :** Morrad
-**Semaine PPE :** octobre 2026
+- **Étudiant :** De Sousa Nunes Alessandro – CFC 3
+- **Formateur référent :** Morrad
+- **Semaine PPE :** octobre 2026
 
 ## Remarque : les 5 projets ont été réalisés
 
