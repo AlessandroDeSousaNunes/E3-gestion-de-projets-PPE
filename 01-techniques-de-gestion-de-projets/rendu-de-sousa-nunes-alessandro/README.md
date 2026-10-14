@@ -21,15 +21,22 @@ Certaines étapes demandent une intervention du formateur (entretien de recueil 
 
 ## Contenu du rendu
 
-Chaque dossier contient les fichiers de travail (Excel et Word) et un dossier `captures` avec les captures d'écran.
+Chaque dossier contient les fichiers de travail (Excel, Word, PowerPoint), **une version PDF de chaque fichier** (lisible directement dans GitHub) et un dossier `captures` avec les captures d'écran.
+
+**Présentation :** [`presentation-5-projets.pdf`](presentation-5-projets.pdf) (12 slides, version modifiable : `presentation-5-projets.pptx`) – résumé des 5 projets pour la présentation orale.
 
 ### Projet 1 – Charte et découpage d'un mini-projet interne
 - `charte-de-projet.docx` – charte (besoins, objectifs, périmètre, parties prenantes, WBS, jalons, contrôle)
 - `wbs-et-jalons.xlsx` – WBS sur 3 niveaux avec charges calculées, frise des jalons
+- `wbs-diagramme.pptx` – diagramme en arbre du WBS (54 éléments), construit à partir du fichier Excel
+
+![Diagramme WBS](projet-1-charte-decoupage/captures/wbs-diagramme.png)
 
 ### Projet 2 – Cahier des charges et planning Gantt
 - `cahier-des-charges.docx` – cahier des charges, estimations, note sur le chemin critique, vérifications
 - `planning-gantt.xlsx` – Gantt avec dépendances, marges et chemin critique calculés par formules
+
+![Gantt](projet-2-cahier-charges-gantt/captures/gantt.png)
 
 ### Projet 3 – Analyse et gestion des risques d'un projet IT
 - `analyse-des-risques.docx` – méthode, registre, matrice, plans de mitigation des 3 risques critiques
