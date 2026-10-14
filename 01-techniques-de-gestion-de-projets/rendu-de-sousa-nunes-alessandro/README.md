@@ -50,6 +50,9 @@ Chaque dossier contient les fichiers de travail (Excel, Word, PowerPoint), **une
 ### Projet 4 – Sprint Scrum simulé
 - `sprint-revue-retrospective.docx` – user stories, sprint planning, daily, burndown, revue, rétrospective
 - `backlog-et-burndown.xlsx` – product backlog priorisé et burndown chart
+- **Tableau Scrum sur GitHub** : les 10 user stories sont aussi des [Issues de ce dépôt](https://github.com/AlessandroDeSousaNunes/E3-gestion-de-projets-PPE/issues?q=label%3A%22user+story%22) (critères d'acceptation, priorité MoSCoW, points, jalon « Sprint 1 ») et sont suivies dans un [tableau GitHub Projects](https://github.com/users/AlessandroDeSousaNunes/projects/3) (Todo / In Progress / Done). Les 7 stories terminées sont fermées, US-08 est restée « In Progress » (non terminée), US-09 et US-10 sont dans le backlog.
+
+![Tableau Scrum GitHub](projet-4-sprint-scrum/captures/04-tableau-scrum-github.jpg)
 
 ### Projet 5 – Pilotage complet d'un mini-projet
 - `1-plan-de-projet-initial.docx` – plan initial (objectifs, équipe, planning, budget, risques, suivi)
